@@ -4,6 +4,7 @@ venv/
 env/
 ENV/
 *.db
+!smart_timetable.db
 *.sqlite3
 
 # Node dependencies & Frontend build output
